@@ -1,0 +1,42 @@
+.resaltar {
+    -webkit-box-shadow: 0 0 8px #E74C3C   ;
+    -moz-box-shadow: 0 0 8px #E74C3C    ;
+    box-shadow: 0 0 8px #E74C3C    ;
+    cursor:pointer;
+}
+.ocultar 
+{
+  display: none;
+
+
+
+}
+.mostrar
+{
+	display:block; 
+}
+
+
+
+
+/*#nuevoProducto
+{
+    position: absolute;
+    
+    
+}*/
+
+
+#formulario
+{
+    position: relative;
+    top: -30px;
+    
+}
+
+#botones
+{
+    position: relative;
+    top: 5px;
+    
+}

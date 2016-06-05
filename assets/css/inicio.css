@@ -1,0 +1,167 @@
+
+
+
+
+.container {
+width: 520px;
+height:230px;
+margin: 50px auto;
+border: solid 1px #2E4053  ;
+font: 1em arial, helvetica, sans-serif;
+color: black;
+/*padding-top: 200px;*/
+position: relative;
+top: -15px ;
+/*right: 200px;*/
+right: 300px;
+
+}
+
+
+
+#Titulo{
+ position:absolute;
+ top:0px;
+ right:140px;
+    
+}
+
+#cuerpo
+{
+    position: absolute;
+    bottom: 80px;
+    
+    
+    
+}
+
+#cuerpo1
+{
+    position: absolute;
+    bottom: 10px;
+        
+    
+    
+}
+
+/*#Detalle
+{
+  position:absolute; 
+    left: 12px;  
+    top:  200px;
+    
+}*/
+#nose
+{
+    position: relative;
+    left: 60px;
+}
+
+#Label1
+{   position:absolute; 
+    left:  0px;
+     top:  -70px; 
+    
+    
+}
+#botonBusqueda
+{ position: absolute;
+    left: 387px;
+    top: 373px; 
+}
+#botonBusqueda2
+{ position: absolute;
+    left:430px;
+     top: 373px; 
+}
+
+#labelProducto
+{
+    position: absolute;
+    width: 240px;
+    top:350px; 
+    left:134px;
+}
+
+#nombre
+{   position: absolute;
+    width: 240px;
+    top:373px; 
+    left:134px;
+}
+
+#btn1
+{
+    position: absolute;
+    left: 0px;
+    top:  -49px;  
+    
+}
+
+#container2 {
+width: 520px;
+height: 230px;
+margin: 50px auto;
+border: solid 1px #2E4053  ;
+font: 1em arial, helvetica, sans-serif;
+color: black;
+/*padding-top: 200px;*/
+/*padding-bottom: 50px ;*/
+position: absolute;
+top: 160px;
+right: 80px;
+}
+
+#Titulo2{
+ position:absolute;
+ top:0px;
+ right:140px;
+    
+}
+
+#cuerpo2
+{
+    position: absolute;
+    bottom: 80px;
+        
+    
+    
+}
+
+#tablaProductos
+{
+    position: relative;
+    top:30px;
+    
+    
+}
+
+
+#pie
+{
+    position: relative;
+    top: 100px;
+    color:#2E83D9; 
+    
+}
+/*
+#cuerpoGeneral
+{
+    position: absolute;
+    top: 200px;
+    
+}*/
+#container3 {
+width: 1158px;
+height: 90px;
+margin: 50px auto;
+border: solid 1px #2E4053  ;
+font: 1em arial, helvetica, sans-serif;
+color: black;
+/*padding-top: 200px;*/
+/*padding-bottom: 50px ;*/
+position: absolute;
+top: 400px;
+right: 80px;
+}
+
